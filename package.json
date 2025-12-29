@@ -37,6 +37,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
+    "@stdlib/array-base-copy": "^0.2.2",
     "@stdlib/array-base-every-by": "^0.2.2",
     "@stdlib/assert-has-own-property": "^0.2.2",
     "@stdlib/assert-is-collection": "^0.2.2",
@@ -47,6 +48,7 @@
     "@stdlib/ndarray-base-assert-is-data-type": "^0.2.2",
     "@stdlib/ndarray-base-assert-is-order": "^0.2.2",
     "@stdlib/ndarray-base-assert-is-output-data-type-policy": "github:stdlib-js/ndarray-base-assert-is-output-data-type-policy#main",
+    "@stdlib/ndarray-base-dtypes2strings": "github:stdlib-js/ndarray-base-dtypes2strings#main",
     "@stdlib/random-tools-binary": "github:stdlib-js/random-tools-binary#main",
     "@stdlib/string-format": "^0.2.2",
     "@stdlib/types": "^0.4.3",
