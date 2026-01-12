@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-29)
+## Unreleased (2026-01-12)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`4b0f789`](https://github.com/stdlib-js/stdlib/commit/4b0f78943f49adfc5e2867c951496ffea6b0702b) - **style:** resolve lint failure _(by Athan Reines)_
 -   [`cb54e8e`](https://github.com/stdlib-js/stdlib/commit/cb54e8ef612afd4437f5748e72c31b304dadb655) - **refactor:** add support for data type instances _(by Athan Reines)_
 -   [`8b67e65`](https://github.com/stdlib-js/stdlib/commit/8b67e657187346504d985ad7b6cd9415f6514705) - **docs:** update example _(by Athan Reines)_
 -   [`8a6dbd7`](https://github.com/stdlib-js/stdlib/commit/8a6dbd7bf692bcd9ce166a7370eda0a7410da3b0) - **docs:** fix example code and return annotation values _(by Philipp Burckhardt)_
