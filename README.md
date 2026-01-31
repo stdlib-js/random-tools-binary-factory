@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import createFactory from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-tools-binary-factory@esm/index.mjs';
+import createFactory from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-tools-binary-factory@v0.1.0-esm/index.mjs';
 ```
 
 #### createFactory( prng, idtypes, odtypes, policies\[, options] )
@@ -576,7 +576,7 @@ import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@e
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtypes@esm/index.mjs';
 import ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-ctor@esm/index.mjs';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@esm/index.mjs';
-import createFactory from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-tools-binary-factory@esm/index.mjs';
+import createFactory from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-tools-binary-factory@v0.1.0-esm/index.mjs';
 
 // Create a new PRNG factory...
 var idt = dtypes( 'real_and_generic' );
